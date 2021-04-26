@@ -6,22 +6,19 @@ This is an API for a social network web application where users can share their 
 
 ## Table of Contents
 * [Install](#Install)
-* [Deployed-App](#Deployed-App)
+* [Video-Walkthrough](#Video-Walkthrough)
 * [Use](#Use)
 * [License](#License)
-* [Contribute](#Contribute)
 
 ## Install
 Install dependencies by runnning the following:
 `npm install`
 
-## Deployed-App
+## Video-Walkthrough
+https://youtu.be/cc3Juy8DCLE
 
 ## Use
 Social Media API
-
-## Contribute
-
 
 ## Tests
 To test, run the following:
